@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mix Messages</title>
+    </head>
+    <header>
+        <h1>Welcome Wacky Movie Critic</h1>
+    </header>
+    <main>
+        <section>
+            <p>Here you can randomly generate a review that may o may not make sense to you,
+            but I hope you find it entertaining.</p>
+            <h2>Generate a random review</h2>
+                <script src="./interactivity.js" type="module" defer></script>
+                <p id="generated_text"></p>
+                <button id="btn_generator">Click here to get your review</button>
+        </section>
+        <br>
+        <section>
+            <button>text</button>
+        </section>
+    </main>
+    <footer>
+        <p>This is just a project to practice differente concepts</p>
+    </footer>
+</html>
